@@ -1,0 +1,4 @@
+C:\Users\hmhos\source\repos\SortingLibrary_03\Sorter\obj\Debug\net8.0\Sorter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmhos\source\repos\SortingLibrary_03\Sorter\obj\Debug\net8.0\Sorter.AssemblyInfoInputs.cache
+C:\Users\hmhos\source\repos\SortingLibrary_03\Sorter\obj\Debug\net8.0\Sorter.AssemblyInfo.cs
+C:\Users\hmhos\source\repos\SortingLibrary_03\Sorter\obj\Debug\net8.0\Sorter.csproj.CoreCompileInputs.cache

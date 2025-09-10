@@ -1,0 +1,140 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SortingApp/1.0.0": {
+        "dependencies": {
+          "BubbleSort": "1.0.0",
+          "InsertionSort": "1.0.0",
+          "MergeSort": "1.0.0",
+          "QuickSort": "1.0.0",
+          "RadixSort": "1.0.0",
+          "SelectionSort": "1.0.0"
+        },
+        "runtime": {
+          "SortingApp.dll": {}
+        }
+      },
+      "BubbleSort/1.0.0": {
+        "dependencies": {
+          "ISortable": "1.0.0"
+        },
+        "runtime": {
+          "BubbleSort.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "InsertionSort/1.0.0": {
+        "dependencies": {
+          "ISortable": "1.0.0"
+        },
+        "runtime": {
+          "InsertionSort.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ISortable/1.0.0": {
+        "runtime": {
+          "ISortable.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MergeSort/1.0.0": {
+        "dependencies": {
+          "ISortable": "1.0.0"
+        },
+        "runtime": {
+          "MergeSort.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "QuickSort/1.0.0": {
+        "dependencies": {
+          "ISortable": "1.0.0"
+        },
+        "runtime": {
+          "QuickSort.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "RadixSort/1.0.0": {
+        "dependencies": {
+          "ISortable": "1.0.0"
+        },
+        "runtime": {
+          "RadixSort.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SelectionSort/1.0.0": {
+        "dependencies": {
+          "ISortable": "1.0.0"
+        },
+        "runtime": {
+          "SelectionSort.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SortingApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BubbleSort/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InsertionSort/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ISortable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MergeSort/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuickSort/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RadixSort/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SelectionSort/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

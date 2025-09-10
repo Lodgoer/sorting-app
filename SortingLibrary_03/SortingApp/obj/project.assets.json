@@ -1,0 +1,230 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "BubbleSort/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ISortable": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BubbleSort.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BubbleSort.dll": {}
+        }
+      },
+      "InsertionSort/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ISortable": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/InsertionSort.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InsertionSort.dll": {}
+        }
+      },
+      "ISortable/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ISortable.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ISortable.dll": {}
+        }
+      },
+      "MergeSort/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ISortable": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MergeSort.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MergeSort.dll": {}
+        }
+      },
+      "QuickSort/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ISortable": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/QuickSort.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/QuickSort.dll": {}
+        }
+      },
+      "RadixSort/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ISortable": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RadixSort.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RadixSort.dll": {}
+        }
+      },
+      "SelectionSort/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ISortable": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SelectionSort.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SelectionSort.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BubbleSort/1.0.0": {
+      "type": "project",
+      "path": "../BubbleSort/BubbleSort.csproj",
+      "msbuildProject": "../BubbleSort/BubbleSort.csproj"
+    },
+    "InsertionSort/1.0.0": {
+      "type": "project",
+      "path": "../InsertionSort/InsertionSort.csproj",
+      "msbuildProject": "../InsertionSort/InsertionSort.csproj"
+    },
+    "ISortable/1.0.0": {
+      "type": "project",
+      "path": "../ISortable/ISortable.csproj",
+      "msbuildProject": "../ISortable/ISortable.csproj"
+    },
+    "MergeSort/1.0.0": {
+      "type": "project",
+      "path": "../MergeSort/MergeSort.csproj",
+      "msbuildProject": "../MergeSort/MergeSort.csproj"
+    },
+    "QuickSort/1.0.0": {
+      "type": "project",
+      "path": "../QuickSort/QuickSort.csproj",
+      "msbuildProject": "../QuickSort/QuickSort.csproj"
+    },
+    "RadixSort/1.0.0": {
+      "type": "project",
+      "path": "../RadixSort/RadixSort.csproj",
+      "msbuildProject": "../RadixSort/RadixSort.csproj"
+    },
+    "SelectionSort/1.0.0": {
+      "type": "project",
+      "path": "../SelectionSort/SelectionSort.csproj",
+      "msbuildProject": "../SelectionSort/SelectionSort.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "BubbleSort >= 1.0.0",
+      "InsertionSort >= 1.0.0",
+      "MergeSort >= 1.0.0",
+      "QuickSort >= 1.0.0",
+      "RadixSort >= 1.0.0",
+      "SelectionSort >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\hmhos\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\hmhos\\OneDrive\\Desktop\\SortingLibrary_03\\SortingApp\\SortingApp.csproj",
+      "projectName": "SortingApp",
+      "projectPath": "C:\\Users\\hmhos\\OneDrive\\Desktop\\SortingLibrary_03\\SortingApp\\SortingApp.csproj",
+      "packagesPath": "C:\\Users\\hmhos\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hmhos\\OneDrive\\Desktop\\SortingLibrary_03\\SortingApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\hmhos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\hmhos\\OneDrive\\Desktop\\SortingLibrary_03\\BubbleSort\\BubbleSort.csproj": {
+              "projectPath": "C:\\Users\\hmhos\\OneDrive\\Desktop\\SortingLibrary_03\\BubbleSort\\BubbleSort.csproj"
+            },
+            "C:\\Users\\hmhos\\OneDrive\\Desktop\\SortingLibrary_03\\InsertionSort\\InsertionSort.csproj": {
+              "projectPath": "C:\\Users\\hmhos\\OneDrive\\Desktop\\SortingLibrary_03\\InsertionSort\\InsertionSort.csproj"
+            },
+            "C:\\Users\\hmhos\\OneDrive\\Desktop\\SortingLibrary_03\\MergeSort\\MergeSort.csproj": {
+              "projectPath": "C:\\Users\\hmhos\\OneDrive\\Desktop\\SortingLibrary_03\\MergeSort\\MergeSort.csproj"
+            },
+            "C:\\Users\\hmhos\\OneDrive\\Desktop\\SortingLibrary_03\\QuickSort\\QuickSort.csproj": {
+              "projectPath": "C:\\Users\\hmhos\\OneDrive\\Desktop\\SortingLibrary_03\\QuickSort\\QuickSort.csproj"
+            },
+            "C:\\Users\\hmhos\\OneDrive\\Desktop\\SortingLibrary_03\\RadixSort\\RadixSort.csproj": {
+              "projectPath": "C:\\Users\\hmhos\\OneDrive\\Desktop\\SortingLibrary_03\\RadixSort\\RadixSort.csproj"
+            },
+            "C:\\Users\\hmhos\\OneDrive\\Desktop\\SortingLibrary_03\\SelectionSort\\SelectionSort.csproj": {
+              "projectPath": "C:\\Users\\hmhos\\OneDrive\\Desktop\\SortingLibrary_03\\SelectionSort\\SelectionSort.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

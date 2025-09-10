@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hmhos\\OneDrive\\Desktop\\SortingLibrary_03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B70DC4F6-EB3D-40D3-991C-F0CCF69B4773}|RadixSort\\RadixSort.csproj|c:\\users\\hmhos\\onedrive\\desktop\\sortinglibrary_03\\radixsort\\radixsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B70DC4F6-EB3D-40D3-991C-F0CCF69B4773}|RadixSort\\RadixSort.csproj|solutionrelative:radixsort\\radixsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2B3085-523D-4F36-954E-2C911AE27036}|SortingApp\\SortingApp.csproj|c:\\users\\hmhos\\onedrive\\desktop\\sortinglibrary_03\\sortingapp\\sorterfactory\\sorterfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2B3085-523D-4F36-954E-2C911AE27036}|SortingApp\\SortingApp.csproj|solutionrelative:sortingapp\\sorterfactory\\sorterfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2B3085-523D-4F36-954E-2C911AE27036}|SortingApp\\SortingApp.csproj|c:\\users\\hmhos\\onedrive\\desktop\\sortinglibrary_03\\sortingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2B3085-523D-4F36-954E-2C911AE27036}|SortingApp\\SortingApp.csproj|solutionrelative:sortingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB20FA3-9106-4F18-8719-33B4C69EB01B}|ISortable\\ISortable.csproj|c:\\users\\hmhos\\onedrive\\desktop\\sortinglibrary_03\\isortable\\isortable.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2DB20FA3-9106-4F18-8719-33B4C69EB01B}|ISortable\\ISortable.csproj|solutionrelative:isortable\\isortable.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0250705-752B-4D45-AC80-B4DE2F973DC1}|SelectionSort\\SelectionSort.csproj|c:\\users\\hmhos\\onedrive\\desktop\\sortinglibrary_03\\selectionsort\\selectionsort.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A0250705-752B-4D45-AC80-B4DE2F973DC1}|SelectionSort\\SelectionSort.csproj|solutionrelative:selectionsort\\selectionsort.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 115,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RadixSort.cs",
+              "DocumentMoniker": "C:\\Users\\hmhos\\OneDrive\\Desktop\\SortingLibrary_03\\RadixSort\\RadixSort.cs",
+              "RelativeDocumentMoniker": "RadixSort\\RadixSort.cs",
+              "ToolTip": "C:\\Users\\hmhos\\OneDrive\\Desktop\\SortingLibrary_03\\RadixSort\\RadixSort.cs*",
+              "RelativeToolTip": "RadixSort\\RadixSort.cs*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T05:39:19.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SelectionSort.csproj",
+              "DocumentMoniker": "C:\\Users\\hmhos\\OneDrive\\Desktop\\SortingLibrary_03\\SelectionSort\\SelectionSort.csproj",
+              "RelativeDocumentMoniker": "SelectionSort\\SelectionSort.csproj",
+              "ToolTip": "C:\\Users\\hmhos\\OneDrive\\Desktop\\SortingLibrary_03\\SelectionSort\\SelectionSort.csproj",
+              "RelativeToolTip": "SelectionSort\\SelectionSort.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-01T15:37:42.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISortable.csproj",
+              "DocumentMoniker": "C:\\Users\\hmhos\\OneDrive\\Desktop\\SortingLibrary_03\\ISortable\\ISortable.csproj",
+              "RelativeDocumentMoniker": "ISortable\\ISortable.csproj",
+              "ToolTip": "C:\\Users\\hmhos\\OneDrive\\Desktop\\SortingLibrary_03\\ISortable\\ISortable.csproj",
+              "RelativeToolTip": "ISortable\\ISortable.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-01T15:28:51.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SorterFactory.cs",
+              "DocumentMoniker": "C:\\Users\\hmhos\\OneDrive\\Desktop\\SortingLibrary_03\\SortingApp\\SorterFactory\\SorterFactory.cs",
+              "RelativeDocumentMoniker": "SortingApp\\SorterFactory\\SorterFactory.cs",
+              "ToolTip": "C:\\Users\\hmhos\\OneDrive\\Desktop\\SortingLibrary_03\\SortingApp\\SorterFactory\\SorterFactory.cs",
+              "RelativeToolTip": "SortingApp\\SorterFactory\\SorterFactory.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:51:55.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hmhos\\OneDrive\\Desktop\\SortingLibrary_03\\SortingApp\\Program.cs",
+              "RelativeDocumentMoniker": "SortingApp\\Program.cs",
+              "ToolTip": "C:\\Users\\hmhos\\OneDrive\\Desktop\\SortingLibrary_03\\SortingApp\\Program.cs",
+              "RelativeToolTip": "SortingApp\\Program.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAcwEAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T01:07:21.194Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 155,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
